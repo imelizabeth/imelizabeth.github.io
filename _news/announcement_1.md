@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2019-04-08 15:59:00-0400
+date: 2023-09-20 
 inline: true
 ---
 
-Emalie was awarded the NSF GRFP fellowship.
+Elizabeth was awarded the ANT Neuro Travel Award at the Seeing and Action Workshop (Coimbra, Portugal).

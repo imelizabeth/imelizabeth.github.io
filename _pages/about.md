@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student in Cognitive Science. Johns Hopkins University.
+subtitle: Lab manager, Isik Lab @ Johns Hopkins University.
 
 profile:
   align: right
@@ -18,8 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a 4th year PhD student working with Drs. Leyla Isik and Michael Bonner. Broadly, I am interested in visual neuroscience. My PhD work has focused on social vision. In particular, my work has investigated how social visual features are organized in the human brain using fMRI, intracranial recordings, and soon EEG.  
+Hi, I am an aspiring cognitive scientist and a writer! Currently, I am working as Dr. Leyla Isik's lab manager. I am interested in visual neuroscience and social cognition. Here, I have been investigating the neural development of social interaction perception in children as young as three. I have experience with running different kinds of neuroimaging studies (such as fMRI and EEG), and using analysis tools (MRICron, Cluster computing, NILearn, Python, MATLAB) to understand the data.
 
-Prior to JHU, I attend the University of Tennessee, Knoxville and was then a research assist with Leslie Ungerleider and Maryam Vaziri-Pashkam at NIMH. 
+Before joining Isik Lab, I graduated from Johns Hopkins University with a B.A. in Cognitive Science and B.A. in Medicine, Science and Humanities. As an undergrad, I mainly worked with Dr. Michael McCloskey in the Cognitive Science Department (JHU), and worked on understanding developmental dysgraphia. I also led an independent project looking at the effects of visual feedback on letter stroke direction in handwriting. Other cool researchers I have had the opportunity to work with as an undergraduate who helped form my research interests include Dr. Janice Chen (JHU) and Dr. Moira Dillon (NYU). 
 
-In my free time, I enjoy cooking and hiking with my partner and dog. I am also a hobby science fiction enthusiast and have brought that interest to a course that I will be teaching in winter 2023 titled "Cognitive Science Fiction."
+
+

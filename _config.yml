@@ -31,8 +31,8 @@ highlight_theme_light: github   # https://github.com/jwarby/jekyll-pygments-them
 highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-themes
 
 # repo color theme
-repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: catppuccin_latte      # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: onedark          # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
 # -----------------------------------------------------------------------------
 # RSS Feed
@@ -66,16 +66,16 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: emaliemcmahon # your GitHub user name
+github_username: imelizabeth # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: emaliemcmahon # your Twitter handle
-mastodon_username: emaliemcmahon@fediscience.org # your mastodon instance+username in the format instance.tld/@username
+twitter_username: imelizabethim # your Twitter handle
+mastodon_username:  # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: mOTMCr4AAAAJ&hl # your Google Scholar ID
+scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0000-0002-8613-1743 # your ORCID ID
+orcid_id:  # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -96,7 +96,7 @@ facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  Email me for with any questions.
+  Please reach out via email!
 # You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
@@ -143,9 +143,9 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  teaching:
-    output: true
-    permalink: /teaching/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /teaching/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 5 # leave blank to include all the news in the `_news` folder

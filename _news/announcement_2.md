@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-12-15 16:11:00-0400
+date: 2023-05-19
 inline: true
 ---
 
-Emalie earned her MA in Cognitive Science. 
+Elizabeth presented a poster at VSS 2023
