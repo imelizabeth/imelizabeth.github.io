@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
-years: [2022, 2021, 2019, 2018]
+permalink: /research/
+title: posters, publications and talks
+years: [2023, 2022, 2021, 2020]
 nav: true
 nav_order: 1
 ---
