@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Elizabeth Im
+      value: Elizabeth Jiwon Im
     # - name: Date of Birth
     #   value: 14th March 1879
     - name: Languages
-      value: English
+      value: English, Korean, Mandarin
 
 - title: Education
   type: time_table
