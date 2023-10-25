@@ -11,8 +11,8 @@ layout: default
           <p class="desc" style="font-style: italic;" float-{%- if page.profile.align == 'left' -%}right{%- else -%}left{%- endif -%}>{{ page.subtitle }}</p>
         </header>
 
-            
-        <article>
+       
+        <article style="margin-top: 20px;">
           {% if page.profile -%}
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if page.profile.image %}
@@ -38,7 +38,7 @@ layout: default
           </div>
           {%- endif %}
 
-          <div class="clearfix">
+          <div class="clearfix" style="margin-top: 20px; margin-bottom: 20px;">
             {{ content }}
           </div>
 
