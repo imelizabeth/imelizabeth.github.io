@@ -10,10 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
  
   address: >
-    <p>     I am located at </p>
-    <p>     ...Baltimore, MD</p>
-    <p> </p>
-    <p> </p>
+   
     
     
 news: true  # includes a list of news items
