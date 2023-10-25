@@ -8,14 +8,14 @@ middle_name: Jiwon
 last_name: Im
 email: imelizabeth@jhu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A website of my academic work. Based on [*folio](https://github.com/bogoli/-folio) design. Icon design by Icongeek26
+  A website of my academic work. Based on [*folio](https://github.com/bogoli/-folio) design. Icon design by smalllikeart
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: jekyll, academic-website, cognitive neuroscience # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: book.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: poodle.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://imelizabeth.github.io # the base hostname & protocol for your site
 baseurl: false # the subpath of your site, e.g. /blog/
