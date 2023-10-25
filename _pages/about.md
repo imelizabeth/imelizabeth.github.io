@@ -20,10 +20,12 @@ social: true  # includes social icons at the bottom of the page
 
 
 
-Hi, welcome to my page! I am an aspiring cognitive scientist; My research interests are in visual neuroscience and social cognition. 
+You found my page! 
 
-Currently I am the Lab Manager at the Computational Cognitive Neuroscience Lab (PI: Dr. Leyla Isik). Here, I have been investigating the neural development of social interaction perception in children as young as three. I am experienced with running different kinds of neuroimaging studies (such as fMRI and EEG), and using analysis tools (MRICron, Cluster computing, NILearn, Python, MATLAB) to understand the data.
+Currently I am the Lab Manager at the Computational Cognitive Neuroscience Lab (PI: Dr. Leyla Isik), and my research interests are in visual neuroscience and social cognition.
+
+Here, I have been investigating the neural development of social interaction perception in children as young as three. I am experienced with running different kinds of neuroimaging studies (such as fMRI and EEG), and using analysis tools (MRICron, Cluster computing, NILearn, Python, MATLAB) to understand the data.
 
 Before my current position, I graduated from Johns Hopkins University. As an undergrad, I mainly worked with Dr. Michael McCloskey on understanding developmental dysgraphia. I also led an independent project looking at the effects of visual feedback on letter stroke direction in handwriting. 
 
-:)
+In my free time I like to read books, write creative nonfiction, play tennis, explore the city, and hike :)
