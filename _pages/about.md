@@ -8,6 +8,7 @@ profile:
   align: left
   image: IMG_0047.JPG
   image_circular: true # crops the image to make it circular
+ 
   address: >
     <p>Where am I? :</p>
     <p>Baltimore, MD</p>
@@ -16,6 +17,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
 
 Hi, welcome to my page! I am an aspiring cognitive scientist; My research interests are in visual neuroscience and social cognition. 
 
