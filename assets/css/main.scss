@@ -6,6 +6,14 @@
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
+.spacing-below {
+    margin-bottom: 20px; /* adjust value as needed */
+}
+
+.spacing-above {
+    margin-top: 20px; /* adjust value as needed */
+}
+
 @import
   "variables",
   "themes",
