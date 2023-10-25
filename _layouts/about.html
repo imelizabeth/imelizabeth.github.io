@@ -12,7 +12,7 @@ layout: default
         </header>
 
        
-        <article style="margin-top: 20px;">
+        <article>
           {% if page.profile -%}
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if page.profile.image %}
@@ -38,7 +38,7 @@ layout: default
           </div>
           {%- endif %}
 
-          <div class="clearfix" style="margin-top: 10px; margin-bottom: 20px;">
+          <div class="clearfix" style="margin-bottom: 20px;">
             {{ content }}
           </div>
 
