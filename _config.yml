@@ -15,7 +15,7 @@ footer_text: >
 keywords: jekyll, academic-website, cognitive neuroscience # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: poodle.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 014-uranus.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://imelizabeth.github.io # the base hostname & protocol for your site
 baseurl: false # the subpath of your site, e.g. /blog/
