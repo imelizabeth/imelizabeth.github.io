@@ -5,7 +5,7 @@ permalink: /
 subtitle: Lab manager at Johns Hopkins University.
 
 profile:
-  align: left
+  align: right
   image: IMG_0047.JPG
   image_circular: true # crops the image to make it circular
  
