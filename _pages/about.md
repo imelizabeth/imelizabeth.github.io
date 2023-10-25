@@ -27,4 +27,4 @@ As a Lab Manager at the Computational Cognitive Neuroscience Lab under Dr. Isik'
 
 Before my current position, I graduated from Johns Hopkins University. As an undergrad, I mainly worked with Dr. Michael McCloskey on understanding developmental dysgraphia. I also led an independent project looking at the effects of visual feedback on letter stroke direction in handwriting. 
 
-                                                                   :)
+:)
