@@ -10,9 +10,11 @@ profile:
   image_circular: true # crops the image to make it circular
  
   address: >
-    <p>Where am I? :</p>
-    <p>Baltimore, MD</p>
-
+    <p>   Where am I? :</p>
+    <p>   Baltimore, MD</p>
+    <p> </p>
+    <p> </p>
+    
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -26,6 +28,7 @@ As a Lab Manager at the Computational Cognitive Neuroscience Lab under Dr. Isik'
 Before my current position, I graduated from Johns Hopkins University. As an undergrad, I mainly worked with Dr. Michael McCloskey on understanding developmental dysgraphia. I also led an independent project looking at the effects of visual feedback on letter stroke direction in handwriting. 
 
 
-
+###
+###
 
 
