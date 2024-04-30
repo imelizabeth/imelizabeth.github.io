@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Lab manager at Johns Hopkins University.
+subtitle: 
 
 profile:
   align: right
