@@ -22,10 +22,10 @@ social: true  # includes social icons at the bottom of the page
 
 You found my page! 
 
-I am an incoming first year PhD student at the Computational Cognitive Neuroscience Lab (PI: Dr. Leyla Isik) at Johns Hopkins University. Broadly, my research interests are visual perception and social cognition. I hope to contribute to our understanding of social vision using neuroimaging and computational modeling methods. 
+I am an incoming first year PhD student at the [Vision and Perception Neuroscience Lab](http://vpnl.stanford.edu) (PI: Dr. Kalanit Grill-Spector) at Stanford University. Broadly, I am interested in understanding the development of visual perception and cognition. I hope to contribute to this topic using neuroimaging and computational modeling methods. 
 
 I am experienced with running different kinds of neuroimaging studies (such as fMRI and EEG), and using analysis tools (MRICron, Cluster computing, NILearn, Python, MATLAB) to understand the data.
 
-Previously, I graduated from Johns Hopkins University with BA in Cognitive Science and BA in Medicine, Science and Humanities. As a post-bac researcher, I worked with Dr. Isik on investigating the neural development of social interaction perception. As an undergrad, I mainly worked with Dr. Michael McCloskey on understanding developmental dysgraphia. I also led an independent project looking at the effects of visual feedback on letter stroke direction in handwriting. I have also worked with Dr. Moira Dillon at NYU on children's understanding of 2D and 3D space drawings, and Dr. Janice Chen at JHU on event boundary coding of naturalistic movie data.
+Previously, I graduated from Johns Hopkins University with BA in Cognitive Science and BA in Medicine, Science and Humanities. As a post-bac lab manager, I worked with [Dr. Leyla Isik](https://www.isiklab.org/) on investigating the neural development of social interaction perception. As an undergrad, I mainly worked with [Dr. Michael McCloskey](https://cogsci.jhu.edu/directory/michael-mccloskey/) on understanding developmental dysgraphia. I also led an independent project looking at the effects of visual feedback on letter stroke direction in handwriting. I have also worked with [Dr. Moira Dillon](https://as.nyu.edu/faculty/Moira-Dillon.html) at NYU on children's understanding of 2D and 3D space drawings, and [Dr. Janice Chen](https://jchenlab.johnshopkins.edu/) at JHU on event boundary coding of naturalistic movie data.
 
 In my free time I like to read books, write creative nonfiction, play tennis, explore the city, and hike :)
