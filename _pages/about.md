@@ -20,9 +20,9 @@ social: true  # includes social icons at the bottom of the page
 
 
 
-You found my page! 
+Thanks for visiting my page!
 
-I am an incoming first year PhD student at the [Vision and Perception Neuroscience Lab](http://vpnl.stanford.edu) (PI: Dr. Kalanit Grill-Spector) at Stanford University. Broadly, I am interested in understanding the development of visual perception and cognition. I hope to contribute to this topic using neuroimaging and computational modeling methods. 
+I am a first year PhD student at the [Vision and Perception Neuroscience Lab](http://vpnl.stanford.edu) (PI: Dr. Kalanit Grill-Spector) at Stanford University. Broadly, I am interested in understanding the development of visual perception and cognition. I hope to contribute to this topic using neuroimaging and computational modeling methods. 
 
 I am experienced with running different kinds of neuroimaging studies (such as fMRI and EEG), and using analysis tools (MRICron, Cluster computing, NILearn, Python, MATLAB) to understand the data.
 
