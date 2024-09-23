@@ -5,18 +5,18 @@
       value: Elizabeth Jiwon Im
     # - name: Date of Birth
     #   value: 14th March 1879
-    - name: Languages
-      value: English, Korean, Mandarin
+    - name: Technical Skills
+      value: Cluster computing, Python, Matlab, R, Bash scripting, Copyediting
 
 - title: Education
   type: time_table
   contents:
-    # - title: Masters of Arts
-    #   institution: Johns Hopkins University, Baltimore, MD
-    #   year: 2021
-    #   description:
-    #     - Concentration in Cognitive Science
-    #     - Earned as part of PhD program
+    - title: PhD
+      institution: Stanford University
+      year: 2024 - current
+      description:
+        - Advised by Dr. Kalanit Grill-Spector
+        - Neuroscience area
 
     - title: Bachelors of Arts
       institution: Johns Hopkins University
