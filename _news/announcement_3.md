@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-02-07
+date: 2024-05-20
 inline: true
 ---
 
-Elizabeth's abstract submission has been accepted as a talk at VSS 2024! 
+Elizabeth gave a talk titled 'Early neural development of social perception: evidence from voxel-wise encoding in young children and adults' at VSS 2024! 
