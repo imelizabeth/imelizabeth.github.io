@@ -7,7 +7,7 @@ group :jekyll_plugins do
     gem 'jekyll-feed'
     gem 'jekyll-imagemagick'
     gem 'jekyll-minifier'
-    gem 'jekyll-paginate-v2'
+    gem 'jekyll-paginate-v4'
     gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
     gem 'jekyll-link-attributes'
