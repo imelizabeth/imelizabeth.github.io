@@ -187,7 +187,7 @@ plugins:
   - jekyll-feed
   - jekyll-imagemagick
   - jekyll-minifier
-  - jekyll-paginate-v4
+  - jekyll-paginate
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-link-attributes
