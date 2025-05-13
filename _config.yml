@@ -192,6 +192,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-link-attributes
   - jekyll-twitter-plugin
+  - jekyll-paginate-v4
   - jemoji
 
 # Sitemap settings
